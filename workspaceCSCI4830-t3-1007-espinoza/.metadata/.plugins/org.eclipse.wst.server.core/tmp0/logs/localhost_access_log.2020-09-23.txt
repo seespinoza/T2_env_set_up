@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Sep/2020:20:55:07 -0500] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Sep/2020:20:55:08 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/simpleSearchHB.html HTTP/1.1" 200 898
+127.0.0.1 - - [23/Sep/2020:20:55:12 -0500] "POST /workspaceCSCI4830-ex-0914-espinoza/SimpleSearchHB HTTP/1.1" 500 12358
+127.0.0.1 - - [23/Sep/2020:21:01:59 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/simpleSearchHB.html HTTP/1.1" 200 953
+127.0.0.1 - - [23/Sep/2020:22:13:30 -0500] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Sep/2020:22:13:31 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/WEB-INF/classes/DBConnection.java HTTP/1.1" 404 949
+127.0.0.1 - - [23/Sep/2020:22:13:48 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/WEB-INF/classes/DBConnection.java HTTP/1.1" 404 949
+127.0.0.1 - - [23/Sep/2020:22:14:30 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/WEB-INF/classes/DBConnection.java HTTP/1.1" 404 949
+127.0.0.1 - - [23/Sep/2020:22:15:38 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/WEB-INF/classes/DBConnection.java HTTP/1.1" 404 949
+127.0.0.1 - - [23/Sep/2020:22:24:39 -0500] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Sep/2020:22:24:40 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/SimpleFormSearch HTTP/1.1" 200 180
+127.0.0.1 - - [23/Sep/2020:22:29:54 -0500] "GET /workspaceCSCI4830-ex-0914-espinoza/MyServletDB HTTP/1.1" 200 535
